@@ -1,4 +1,4 @@
-# RPiS 2021 Lab
+# RPiS 2022 Lab
 
 Solutions to selected problems will be added as we cover new topics during laboratories.
 
